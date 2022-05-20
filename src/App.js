@@ -39,7 +39,7 @@ marked.setOptions({
     return (
     
     <div className='App'>
-        <h1>Preview WHAT U Type</h1>
+        <h1 id="heading">Preview WHAT U Type</h1>
         <p>Input:</p>
         <textarea 
         id="editor" 
