@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/markdown-previewer/static/js/main.4c7555dc.js",
+    "main.js": "/markdown-previewer/static/js/main.73f4d42c.js",
     "index.html": "/markdown-previewer/index.html",
-    "main.4c7555dc.js.map": "/markdown-previewer/static/js/main.4c7555dc.js.map"
+    "main.73f4d42c.js.map": "/markdown-previewer/static/js/main.73f4d42c.js.map"
   },
   "entrypoints": [
-    "static/js/main.4c7555dc.js"
+    "static/js/main.73f4d42c.js"
   ]
 }
